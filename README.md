@@ -1,2 +1,2 @@
 # Texture_Grabber
-Grabs all textures on a model and throws them onto the model
+Grabs all textures on a model and throws them into 1 folder
